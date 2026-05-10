@@ -1,0 +1,251 @@
+product_key,product_id,product_name,category,weight_kg,fragility,value_usd
+1,PRD-0001, ,Machinery,2068.7,High,117334.13
+2,PRD-0002,, ,2929.29,High,91825.16
+3,PRD-0003,Packaged Medicine Type II,Pharmaceuticals,3471.81,Low,29719.69
+4,PRD-0004,Steel Pipes Standard,Machinery,229.34,Low,
+5,PRD-0005,Frozen Seafood Premium,Food & Beverage,1801.71,Low,70562.0
+6,PRD-0006,Automotive Parts Industrial,Automotive,2003.93,Low,24715.35
+7,PRD-0007,Plastic Resin Commercial,Chemicals,583.28,Medium,76256.22
+8,PRD-0008,Solar Panels Grade A,Electronics,749.36,Low,48248.07
+9,PRD-0009,Cardboard Packaging Grade B,Packaging,2954.67,Low,67974.86
+10,PRD-0010,Laptop Computers Type I,Electronics,268.41,Medium,51953.79
+11,PRD-0011,Engine Components Type II,Automotive,2187.41,Medium,2240.25
+12,PRD-0012,Synthetic Fibre Standard,Textiles,745.41,High,32158.17
+13,PRD-0013,Vaccines Premium,Pharmaceuticals,3173.93,High,62676.17
+14,PRD-0014,Hydraulic Pumps Industrial,Machinery,2398.6,Medium,103223.43
+15,PRD-0015,Canned Foods Commercial,Food & Beverage,934.34,Low,72151.06
+16,PRD-0016,Brake Systems Grade A,Automotive,859.63,Medium,118955.24
+17,PRD-0017,Adhesive Chemicals Grade B,Chemicals,,Low,21124.82
+18,PRD-0018,LED Displays Type I,Electronics,69.78,Low, 
+19,PRD-0019,Corrugated Boxes Type II,Packaging,2350.89,Medium,86910.34
+20,PRD-0020,Circuit Boards Standard,Electronics,3265.28,Medium,111787.22
+21,PRD-0021,Transmission Parts Premium,Automotive,428.06,Low,88470.46
+22,PRD-0022,Denim Fabric Industrial,Textiles,763.11,Low,52741.53
+23,PRD-0023,Surgical Equipment Commercial,Pharmaceuticals,1311.53,Low,56986.7
+24,PRD-0024,Conveyor Belts Grade A,Machinery,507.28,Low,2536.74
+25,PRD-0025,Coffee Beans Grade B,Food & Beverage,2317.82,High,80594.46
+26,PRD-0026,Tyre Rubber Type I,Automotive,2452.19,High,104035.42
+27,PRD-0027,Industrial Solvents Type II,Chemicals,1375.48,Low,112359.2
+28,PRD-0028,Fibre Optic Cable Standard,Electronics,560.88,Low,92010.77
+29,PRD-0029, ,Packaging,2881.21,Medium,111180.25
+30,PRD-0030,Server Hardware Industrial,Electronics,351.47,Low,42227.95
+31,PRD-0031,Gearboxes Commercial,Machinery,,Low,22055.28
+32,PRD-0032,Polyester Yarn Grade A,,700.34,Medium,18945.43
+33,PRD-0033,Blood Test Kits Grade B,Pharmaceuticals,2671.09,High,112730.67
+34,PRD-0034,Drilling Equipment Type I,Machinery,607.26,Low,23846.06
+35,PRD-0035,Bottled Water Type II,Food & Beverage,3306.66,,2764.23
+36,PRD-0036,Exhaust Systems Standard,Automotive,311.51,Low,20257.36
+37,PRD-0037,Pesticides Premium,Chemicals,311.81,Medium,86232.26
+38,PRD-0038,Network Switches Industrial,Electronics,2357.67,High,113526.71
+39,PRD-0039,Bubble Wrap Commercial,Packaging,1337.32,Low,119424.93
+40,PRD-0040,Power Transformers Grade A,Electronics,1429.89,Low,28264.39
+41,PRD-0041,Crane Components Grade B,Machinery,2265.36,Medium,38794.93
+42,PRD-0042,Wool Blend Fabric Type I,Textiles,2479.62, , 
+43,PRD-0043,IV Drip Sets Type II,Pharmaceuticals,1240.12,High,71791.06
+44,PRD-0044, ,Machinery,2168.84,Medium,15875.53
+45,PRD-0045, ,Food & Beverage,594.62,Low,15837.29
+46,PRD-0046,Suspension Systems Industrial,Automotive, ,Low,116804.79
+47,PRD-0047,Lubricants Commercial,Chemicals,3159.78,Low,52297.56
+48,PRD-0048,Touchscreen Panels Grade A,Electronics,3325.18,High,52803.23
+49,PRD-0049, ,Packaging,1645.92,Medium,119424.25
+50,PRD-0050, ,Raw Materials,2481.63,Medium,86373.92
+51,PRD-0051,Iron Ore Type II,Raw Materials,994.48,High,32740.8
+52,PRD-0052,Bauxite Standard,Raw Materials,3400.7,Medium,110450.22
+53,PRD-0053,Crude Rubber Premium,Raw Materials,1150.37,High,44832.01
+54,PRD-0054,Timber Boards Industrial,Raw Materials,101.16,High,54491.03
+55,PRD-0055,Palm Oil Commercial,,3394.2,Medium,87787.57
+56,PRD-0056,Airbag Modules Grade A,Automotive, ,High,95779.25
+57,PRD-0057,Epoxy Resin Grade B,Chemicals,324.02,Low,103862.94
+58,PRD-0058,CCTV Systems Type I,Electronics,2728.25,High,35831.21
+59,PRD-0059,Pallet Wrap Type II,Packaging,3163.08,Low,99847.69
+60,PRD-0060,Forklift Trucks Standard,Logistics Equipment,1667.59,Medium,50708.98
+61,PRD-0061,Pallet Jacks Premium,Logistics Equipment,325.41,Medium,77716.09
+62,PRD-0062,Conveyor Systems Industrial,Logistics Equipment,2265.32,Medium,108865.67
+63,PRD-0063,Barcode Scanners Commercial,Logistics Equipment,3160.17,Medium,68227.73
+64,PRD-0064,Warehouse Racking Grade A,Logistics Equipment,1787.33,Medium,68220.84
+65,PRD-0065,Loading Docks Grade B,Logistics Equipment,1762.11,High,94342.96
+66,PRD-0066, ,Logistics Equipment,2465.35,High,80433.82
+67,PRD-0067,GPS Trackers Type II,Logistics Equipment,3049.72, ,117862.49
+68,PRD-0068,Aluminium Sheets Standard,Raw Materials,62.8,Low,57258.57
+69,PRD-0069,Cotton Bales Premium,Raw Materials,2106.65,Medium,74012.45
+70,PRD-0070,Microchips Industrial,Electronics,2816.26,,
+71,PRD-0071,Industrial Motors Commercial,Machinery,732.38,High,101052.03
+72,PRD-0072,Cotton Fabric Grade A,Textiles,2694.05,,19939.33
+73,PRD-0073,Packaged Medicine Grade B,Pharmaceuticals,1650.27,Medium,35385.41
+74,PRD-0074,Steel Pipes Type I,Machinery,359.41,Medium,101835.16
+75,PRD-0075,Frozen Seafood Type II,Food & Beverage,1017.78,Medium,86955.91
+76,PRD-0076,Automotive Parts Standard,Automotive, ,Low, 
+77,PRD-0077,Plastic Resin Premium,Chemicals,1656.74,High,
+78,PRD-0078,Solar Panels Industrial,Electronics,1203.53,Low,82199.41
+79,PRD-0079,Cardboard Packaging Commercial,Packaging,1639.69,High,115176.73
+80,PRD-0080,Laptop Computers Grade A,Electronics,2785.92,Low,33900.61
+81,PRD-0081,Engine Components Grade B,Automotive,698.27,Low,113167.02
+82,PRD-0082,Synthetic Fibre Type I,Textiles,3497.41,Low,19039.39
+83,PRD-0083,Vaccines Type II,,222.92,Medium,67441.28
+84,PRD-0084,Hydraulic Pumps Standard,Machinery,2692.83,Medium,18148.2
+85,PRD-0085,Canned Foods Premium,Food & Beverage,2472.45,Medium,115517.95
+86,PRD-0086,Brake Systems Industrial,Automotive,2133.83,Low,5044.0
+87,PRD-0087,Adhesive Chemicals Commercial,Chemicals,3188.46,Low,91437.67
+88,PRD-0088,LED Displays Grade A,Electronics,1273.14,Low,52697.5
+89,PRD-0089,Corrugated Boxes Grade B,Packaging,2832.03,Medium,31927.75
+90,PRD-0090,Circuit Boards Type I,Electronics,859.15,Medium,27388.02
+91,PRD-0091,Transmission Parts Type II,Automotive,1605.69,High,3579.31
+92,PRD-0092,,Textiles,3302.76,Low,92686.54
+93,PRD-0093,Surgical Equipment Premium,,3228.82, ,75795.85
+94,PRD-0094,Conveyor Belts Industrial,Machinery,1035.11,High,104826.58
+95,PRD-0095,Coffee Beans Commercial,Food & Beverage,2894.53,Medium,84037.81
+96,PRD-0096,Tyre Rubber Grade A,Automotive,2759.22,High,97421.23
+97,PRD-0097,Industrial Solvents Grade B,Chemicals,295.07,Medium,88808.35
+98,PRD-0098,Fibre Optic Cable Type I,Electronics,324.96,Medium,
+99,PRD-0099,Foam Packaging Type II,Packaging,905.49,Low,118434.67
+100,PRD-0100, ,Electronics,2194.5,Low,112961.63
+101,PRD-0101,Gearboxes Premium,,1186.5,High,67875.14
+102,PRD-0102,Polyester Yarn Industrial,Textiles,2084.46,Low,97810.99
+103,PRD-0103,Blood Test Kits Commercial,Pharmaceuticals,2581.32,Medium,98742.54
+104,PRD-0104,Drilling Equipment Grade A,Machinery,2899.55,Low,15614.56
+105,PRD-0105,Bottled Water Grade B,Food & Beverage,1409.7,Medium,70119.78
+106,PRD-0106,Exhaust Systems Type I,Automotive,3317.38,Medium,17328.39
+107,PRD-0107,Pesticides Type II,Chemicals,2465.87,Low,
+108,PRD-0108,Network Switches Standard,Electronics,3225.95,Medium,44355.36
+109,PRD-0109,Bubble Wrap Premium,Packaging,1067.31,Low,94946.11
+110,PRD-0110,Power Transformers Industrial, ,3129.9,Low,
+111,PRD-0111,Crane Components Commercial, ,156.48,Low,108035.27
+112,PRD-0112,Wool Blend Fabric Grade A,Textiles,2120.02,Medium,91403.36
+113,PRD-0113,IV Drip Sets Grade B,Pharmaceuticals,312.69,Medium,27944.81
+114,PRD-0114,Compressor Units Type I,Machinery,3115.16,High,
+115,PRD-0115,Frozen Vegetables Type II,Food & Beverage,1081.04,High,23097.67
+116,PRD-0116,Suspension Systems Standard, ,1995.9,Medium,2247.54
+117,PRD-0117,Lubricants Premium,Chemicals,962.44,High,69549.69
+118,PRD-0118,Touchscreen Panels Industrial,Electronics,2061.17,Low,
+119,PRD-0119,Stretch Film Commercial,Packaging,318.68,Medium,17290.96
+120,PRD-0120,Copper Wire Grade A,Raw Materials,1425.53,Medium,21781.49
+121,PRD-0121,Iron Ore Grade B,Raw Materials,498.7,Low,99330.35
+122,PRD-0122,Bauxite Type I,Raw Materials,2051.14,Medium, 
+123,PRD-0123,Crude Rubber Type II,Raw Materials,1694.65,Low,2242.59
+124,PRD-0124,Timber Boards Standard,Raw Materials,2670.45,Low,48814.26
+125,PRD-0125,Palm Oil Premium,Food & Beverage,3387.69,Low,64507.98
+126,PRD-0126,Airbag Modules Industrial,Automotive,3.6,Medium,
+127,PRD-0127,Epoxy Resin Commercial,Chemicals,2092.58,Medium,101093.9
+128,PRD-0128,CCTV Systems Grade A,Electronics,565.04,Low,47441.43
+129,PRD-0129,Pallet Wrap Grade B,Packaging,978.18,Medium,96248.37
+130,PRD-0130,Forklift Trucks Type I,Logistics Equipment,3428.74,Low,117962.77
+131,PRD-0131,Pallet Jacks Type II,Logistics Equipment,55.66,High,
+132,PRD-0132,,Logistics Equipment,1945.31,Medium,64579.47
+133,PRD-0133,Barcode Scanners Premium,Logistics Equipment,108.41,High,14816.88
+134,PRD-0134,Warehouse Racking Industrial,Logistics Equipment,1353.69,High,14978.67
+135,PRD-0135,Loading Docks Commercial,,2601.03,High,42943.66
+136,PRD-0136,Refrigerated Units Grade A,Logistics Equipment,2512.36,Medium,4423.23
+137,PRD-0137,GPS Trackers Grade B,Logistics Equipment,25.07,High,104390.99
+138,PRD-0138,Aluminium Sheets Type I,Raw Materials,2309.47,High,21070.06
+139,PRD-0139,Cotton Bales Type II,Raw Materials,3267.48,Medium,32925.16
+140,PRD-0140,,Electronics,2372.1,High,54475.5
+141,PRD-0141,Industrial Motors Premium,Machinery,181.61,Medium,48829.85
+142,PRD-0142,Cotton Fabric Industrial,Textiles, ,High,33357.74
+143,PRD-0143,Packaged Medicine Commercial,,681.21,Medium,118831.84
+144,PRD-0144,Steel Pipes Grade A,Machinery,3209.49,Low,75122.35
+145,PRD-0145,Frozen Seafood Grade B,Food & Beverage,2073.9,Low,29664.45
+146,PRD-0146,Automotive Parts Type I,Automotive,2875.74,Low,93091.73
+147,PRD-0147,Plastic Resin Type II,Chemicals,2026.31,Low,45292.4
+148,PRD-0148,Solar Panels Standard,Electronics,217.1,Low, 
+149,PRD-0149,Cardboard Packaging Premium,Packaging,1032.28,Low,49337.67
+150,PRD-0150,Laptop Computers Industrial,Electronics,1586.99,Medium,74310.71
+151,PRD-0151,Engine Components Commercial,Automotive,1589.32,Low,1482.53
+152,PRD-0152,Synthetic Fibre Grade A,Textiles,3165.3,Medium,50525.47
+153,PRD-0153,Vaccines Grade B,Pharmaceuticals, ,Low,61578.98
+154,PRD-0154,Hydraulic Pumps Type I,Machinery,1894.05,Medium,41153.29
+155,PRD-0155,,Food & Beverage, ,Medium, 
+156,PRD-0156,Brake Systems Standard,Automotive,2241.98,Low,80145.87
+157,PRD-0157,Adhesive Chemicals Premium,Chemicals,1159.08,Low,50248.09
+158,PRD-0158,LED Displays Industrial,Electronics,147.77,Low,83188.92
+159,PRD-0159,Corrugated Boxes Commercial,Packaging,2689.24,High,48042.31
+160,PRD-0160,,,1252.67,Low,23334.86
+161,PRD-0161,Transmission Parts Grade B, ,104.0,Low,31445.77
+162,PRD-0162,Denim Fabric Type I,Textiles,686.04,Low,2527.08
+163,PRD-0163,Surgical Equipment Type II,Pharmaceuticals,388.48,Low,44361.92
+164,PRD-0164,Conveyor Belts Standard,Machinery,2796.6,Medium,7852.78
+165,PRD-0165,Coffee Beans Premium,Food & Beverage,670.97,Low,51549.38
+166,PRD-0166,Tyre Rubber Industrial,Automotive,2055.68,Low, 
+167,PRD-0167,Industrial Solvents Commercial,Chemicals,2980.27,Medium,9776.27
+168,PRD-0168,Fibre Optic Cable Grade A, ,1780.2,High,44916.94
+169,PRD-0169,Foam Packaging Grade B,Packaging,1839.21,Medium,69745.75
+170,PRD-0170,Server Hardware Type I,Electronics,725.28,Medium,47512.83
+171,PRD-0171,Gearboxes Type II,Machinery,3274.25,Medium,90196.72
+172,PRD-0172,Polyester Yarn Standard,Textiles,144.1,Low,56110.38
+173,PRD-0173,Blood Test Kits Premium,Pharmaceuticals,1338.36,Low,9114.01
+174,PRD-0174,Drilling Equipment Industrial,Machinery,1913.33,Low, 
+175,PRD-0175, ,Food & Beverage,688.34,Low,92219.79
+176,PRD-0176,Exhaust Systems Grade A,Automotive,482.61,High,
+177,PRD-0177,Pesticides Grade B,Chemicals,2740.97,Medium,
+178,PRD-0178,Network Switches Type I,Electronics,3330.22,Low,89898.46
+179,PRD-0179,Bubble Wrap Type II,Packaging,2651.7,Medium,10312.42
+180,PRD-0180,Power Transformers Standard,Electronics,1461.97,,16680.92
+181,PRD-0181,Crane Components Premium,Machinery,1749.35,Low,50302.32
+182,PRD-0182,Wool Blend Fabric Industrial,Textiles,1881.66,Low,3872.82
+183,PRD-0183,IV Drip Sets Commercial,Pharmaceuticals,1988.71,Medium,46911.18
+184,PRD-0184,Compressor Units Grade A, ,1352.58,Low,54188.63
+185,PRD-0185,Frozen Vegetables Grade B,Food & Beverage,,High,3228.41
+186,PRD-0186,Suspension Systems Type I,Automotive,720.7, ,6901.92
+187,PRD-0187,Lubricants Type II,Chemicals,1438.07,Low,50214.24
+188,PRD-0188,Touchscreen Panels Standard,Electronics,722.76,Low,85162.92
+189,PRD-0189,Stretch Film Premium,Packaging,2056.26,High,24210.71
+190,PRD-0190,Copper Wire Industrial,Raw Materials,2117.01,Low,105509.69
+191,PRD-0191,Iron Ore Commercial,Raw Materials,1007.76,Medium,101118.0
+192,PRD-0192,Bauxite Grade A,Raw Materials,2974.47,Low,87991.41
+193,PRD-0193,Crude Rubber Grade B,Raw Materials,1990.2,Low,104465.79
+194,PRD-0194,Timber Boards Type I,Raw Materials,3207.05,High,109049.11
+195,PRD-0195,Palm Oil Type II,Food & Beverage,1290.63,Medium,39126.97
+196,PRD-0196,Airbag Modules Standard,Automotive,1617.64,High,55432.78
+197,PRD-0197,Epoxy Resin Premium,Chemicals,132.31,High,39258.63
+198,PRD-0198,CCTV Systems Industrial, ,1919.55,Medium,98452.64
+199,PRD-0199,Pallet Wrap Commercial,,351.89,Medium,20221.06
+200,PRD-0200,,Logistics Equipment,1542.36,,81007.9
+201,PRD-0201,Pallet Jacks Grade B,Logistics Equipment,2840.31,High,12342.37
+202,PRD-0202,Conveyor Systems Type I,Logistics Equipment,170.42,Low,44962.37
+203,PRD-0203,Barcode Scanners Type II,Logistics Equipment,3462.52,Low,7588.07
+204,PRD-0204,Warehouse Racking Standard,Logistics Equipment,2324.41,Low,12929.2
+205,PRD-0205,Loading Docks Premium,Logistics Equipment,725.0,Medium,25659.89
+206,PRD-0206,Refrigerated Units Industrial,Logistics Equipment,1106.91,Medium,78958.14
+207,PRD-0207,GPS Trackers Commercial, ,3099.12,Medium,118856.99
+208,PRD-0208,Aluminium Sheets Grade A,Raw Materials,1992.26,Low,117770.06
+209,PRD-0209,Cotton Bales Grade B,Raw Materials,2428.05,High,82517.51
+210,PRD-0210,Microchips Type I, ,61.87,Medium,76873.91
+211,PRD-0211,Industrial Motors Type II,Machinery,814.2,Low,88551.69
+212,PRD-0212,Cotton Fabric Standard, ,1310.9,Low,77047.53
+213,PRD-0213,Packaged Medicine Premium,Pharmaceuticals,1553.1,Low,77235.1
+214,PRD-0214,Steel Pipes Industrial,Machinery,2268.2,Low,87946.91
+215,PRD-0215,Frozen Seafood Commercial, ,3211.88,High,26699.51
+216,PRD-0216,Automotive Parts Grade A,Automotive, , ,23102.31
+217,PRD-0217,Plastic Resin Grade B,Chemicals,321.25,Low,9387.12
+218,PRD-0218,Solar Panels Type I,Electronics,857.31,Low,69174.01
+219,PRD-0219,Cardboard Packaging Type II,Packaging,1684.15,Low,20138.58
+220,PRD-0220,Laptop Computers Standard,Electronics,2661.16,,45775.27
+221,PRD-0221,Engine Components Premium,Automotive,2083.18,High,45658.98
+222,PRD-0222,Synthetic Fibre Industrial,Textiles,1683.01,High,18573.7
+223,PRD-0223,,Pharmaceuticals,2538.74,Medium,116459.35
+224,PRD-0224,Hydraulic Pumps Grade A,Machinery,2059.12,Low,14944.31
+225,PRD-0225,Canned Foods Grade B,Food & Beverage,3349.84,High,85097.74
+226,PRD-0226,Brake Systems Type I, ,1348.73,Low,4148.63
+227,PRD-0227,Adhesive Chemicals Type II,Chemicals,2441.18,Low,113312.27
+228,PRD-0228,LED Displays Standard,Electronics,2319.15,Low,77330.53
+229,PRD-0229,Corrugated Boxes Premium,Packaging,3153.49,Low,19905.51
+230,PRD-0230,Circuit Boards Industrial,Electronics,1866.25,Medium,49397.79
+231,PRD-0231,Transmission Parts Commercial,Automotive,2226.67,Low,32288.41
+232,PRD-0232,Denim Fabric Grade A,Textiles,22.57,,8388.42
+233,PRD-0233,Surgical Equipment Grade B,Pharmaceuticals,2565.67,Low,16126.77
+234,PRD-0234,Conveyor Belts Type I,Machinery,1984.87, ,21934.07
+235,PRD-0235,Coffee Beans Type II,Food & Beverage,1430.83,Medium, 
+236,PRD-0236,Tyre Rubber Standard,Automotive,,Low,80739.17
+237,PRD-0237,Industrial Solvents Premium,Chemicals,25.39,Low,
+238,PRD-0238,Fibre Optic Cable Industrial,Electronics,2664.8,Medium,72527.75
+239,PRD-0239,Foam Packaging Commercial,Packaging,1103.35,Low, 
+240,PRD-0240,Server Hardware Grade A,Electronics,350.71,High,100251.86
+241,PRD-0241,,Machinery,1857.25,Low,74205.26
+242,PRD-0242,Polyester Yarn Type I,Textiles,657.85,,
+243,PRD-0243,Blood Test Kits Type II,Pharmaceuticals,1555.13,Medium,95276.89
+244,PRD-0244,Drilling Equipment Standard,Machinery,1666.48,High,88115.45
+245,PRD-0245,Bottled Water Premium,Food & Beverage,1820.24,High,15350.34
+246,PRD-0246,Exhaust Systems Industrial,Automotive,1920.66,Low,114606.51
+247,PRD-0247,Pesticides Commercial,Chemicals,596.6,High,52191.73
+248,PRD-0248,Network Switches Grade A,Electronics,3159.28,Low,79914.59
+249,PRD-0249,Bubble Wrap Grade B,Packaging,3229.58,Medium,83016.61
+250,PRD-0250,Power Transformers Type I,Electronics,2102.42,Medium,89158.19

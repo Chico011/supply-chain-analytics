@@ -1,0 +1,41 @@
+warehouse_key,warehouse_id,location,country,region,capacity,current_load,processing_time_avg
+1,WH-001,Dubai Logistics Hub,UAE,Middle East,23923,23919,0.3
+2,WH-002,Rotterdam Port Centre,Netherlands,Europe,74507,46843,3.3
+3,WH-003,Shanghai Gateway,China, ,65947,41768,0.4
+4,WH-004,Chicago Distribution Centre, ,North America,36883,25853,5.2
+5,WH-005,Lagos Inland Depot,Nigeria,Africa,10955,5178,2.9
+6,WH-006,Sao Paulo Hub,Brazil,Latin America,75050,76126,2.2
+7,WH-007,Singapore Crossdock,Singapore,Asia Pacific,54052,33192,2.5
+8,WH-008,Frankfurt Central,Germany,Europe,29468,27333,0.7
+9,WH-009,Mumbai Port Warehouse,India,Asia Pacific,70208,73204,0.3
+10,WH-010,Los Angeles West Coast,USA,North America,43825,29851,2.3
+11,WH-011,Nairobi East Africa Hub,Kenya,Africa,13535,12700,4.4
+12,WH-012,Toronto North Hub,Canada,North America,47343,48398,2.9
+13,WH-013,Paris Distribution Park,France,Europe,40079,17551,2.8
+14,WH-014,Johannesburg Gateway,South Africa,Africa,41804,34096,4.7
+15,WH-015,Tokyo Logistics Centre,Japan,Asia Pacific,15669,8023,3.6
+16,WH-016,Houston South Terminal,USA,North America,14385,8668,0.8
+17,WH-017,Hamburg Port Depot,Germany,Europe,79265,49401,2.2
+18,WH-018,,Malaysia,Asia Pacific,54088,50771,5.0
+19,WH-019,Cairo Regional Centre,Egypt,Africa,28257,20829,4.7
+20,WH-020,Buenos Aires Depot,Argentina,Latin America,,15664,3.9
+21,WH-021,Istanbul Cross-Dock,Turkey,Middle East,65925,,4.5
+22,WH-022,Seoul Distribution Park,South Korea,Asia Pacific,26659,22752,
+23,WH-023, ,Spain,Europe,71472, ,0.9
+24,WH-024,,Indonesia,Asia Pacific,16683,10177,1.3
+25,WH-025,Miami Gateway,USA,North America,11835,5647,2.9
+26,WH-026,Warsaw Central Depot,Poland,Europe,39696,29299,5.3
+27,WH-027,Riyadh Inland Hub,Saudi Arabia,Middle East,78402,33142,3.9
+28,WH-028,Bangkok Regional Centre,Thailand,Asia Pacific,22067,11782,5.4
+29,WH-029,Accra West Africa Depot,Ghana,Africa,22459,16786,2.9
+30,WH-030,Lima Pacific Hub,Peru,Latin America,67892,54194,4.7
+31,WH-031,Amsterdam Freight Centre,Netherlands,Europe,,16843,3.8
+32,WH-032,Karachi Port Depot,Pakistan,Asia Pacific,76506,63873,5.1
+33,WH-033,Dallas Inland Terminal,USA,North America,16481,10698,2.5
+34,WH-034,Bogota Andean Hub,Colombia,Latin America,43779,39246,5.4
+35,WH-035,Casablanca North Africa Hub,Morocco,Africa,27316,24689, 
+36,WH-036, ,Philippines,Asia Pacific,16942,12432,3.5
+37,WH-037,Vienna Central Depot,Austria,Europe,76150,68806,2.1
+38,WH-038,Vancouver Pacific Terminal,Canada,North America,79646,34337,4.7
+39,WH-039,Santiago South Hub,Chile,Latin America,12716,5603,1.0
+40,WH-040,Colombo Port Centre,Sri Lanka,Asia Pacific,71891,64797,3.2

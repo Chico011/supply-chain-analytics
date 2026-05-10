@@ -1,0 +1,201 @@
+route_key,route_id,origin,destination,region,distance_km,avg_transit_days
+1,RTE-001,Santiago,Lagos,Latin America,2298,2
+2,RTE-002,Tokyo,Seoul,Asia Pacific,12347,13
+3,RTE-003,Dhaka,Singapore,Asia Pacific,2898,3
+4,RTE-004,Warsaw,Tokyo,Europe,6205,11
+5,RTE-005,Sao Paulo,Bangkok,, ,6
+6,RTE-006,San Francisco,Kuala Lumpur,North America,10068,17
+7,RTE-007, ,Manila,Asia Pacific,10542,19
+8,RTE-008,Nairobi,Singapore,Africa,9448,11
+9,RTE-009,Cairo,Dallas,Africa,2507,3
+10,RTE-010,Tokyo,Cape Town,Asia Pacific,3357,4
+11,RTE-011,Karachi,Sao Paulo,Asia Pacific,1428,
+12,RTE-012,Chennai,,Asia Pacific,6510,7
+13,RTE-013,Dallas,Dubai,North America,11085,14
+14,RTE-014,Berlin,Singapore,Europe, ,8
+15,RTE-015,Miami,Tunis,,812,1
+16,RTE-016,Amsterdam, ,Europe,10523,
+17,RTE-017,Beirut,Sydney,Middle East,11043,14
+18,RTE-018,Stockholm, ,Europe,7114,10
+19,RTE-019,Santiago,Warsaw,Latin America,1576,2
+20,RTE-020,Bogota,Osaka,Latin America,4375,5
+21,RTE-021,Chennai,Cape Town,Asia Pacific,6164,7
+22,RTE-022,Buenos Aires,Lima,Latin America,5829,6
+23,RTE-023,Singapore,Colombo,Asia Pacific,6390,8
+24,RTE-024,Sydney,New York,Asia Pacific,12845,16
+25,RTE-025,,Shanghai,North America,,6
+26,RTE-026,Sydney,Colombo,Asia Pacific,5459,10
+27,RTE-027,Cape Town,Dhaka,Africa,9665,16
+28,RTE-028,Paris,Nairobi,Europe,4498,6
+29,RTE-029,Bangkok,San Francisco,Asia Pacific,3132,4
+30,RTE-030,Warsaw,Shanghai,Europe,12273,15
+31,RTE-031,Barcelona,Casablanca,Europe,,2
+32,RTE-032, ,Los Angeles,North America,5293,6
+33,RTE-033,Los Angeles,Accra,North America,12286,17
+34,RTE-034,Bangkok,Buenos Aires,Asia Pacific,2725,4
+35,RTE-035,Barcelona,Riyadh,Europe,11733,20
+36,RTE-036,Karachi,Guangzhou,Asia Pacific,12353,16
+37,RTE-037,Frankfurt,Rotterdam,Europe,11305,
+38,RTE-038,Warsaw,Sao Paulo,Europe,6029,7
+39,RTE-039,Nairobi,Tokyo,Africa,11528,16
+40,RTE-040,,Dhaka,Asia Pacific,2719,
+41,RTE-041,Sydney,Stockholm,Asia Pacific,9114,14
+42,RTE-042,,Kuala Lumpur,North America, ,13
+43,RTE-043,Berlin, ,Europe,,15
+44,RTE-044,Houston,,North America,11115,16
+45,RTE-045,New York,Lima,North America,11927,21
+46,RTE-046,,Seoul,Africa,9486,10
+47,RTE-047,Sao Paulo,London,Latin America,5981,7
+48,RTE-048,Dublin,Los Angeles,Europe,,16
+49,RTE-049,Houston,Nairobi,North America,2785,4
+50,RTE-050,Guangzhou,Tunis,Asia Pacific,10548,12
+51,RTE-051,Hamburg,Johannesburg,Europe,9183,16
+52,RTE-052,Warsaw,Kuala Lumpur,Europe,11852,15
+53,RTE-053,Cape Town,Beirut,Africa,2889,4
+54,RTE-054,Toronto,Dallas,North America,783,1
+55,RTE-055,Dar es Salaam,Lisbon,Africa,10734,12
+56,RTE-056,Houston,Vancouver,North America,9590,11
+57,RTE-057,San Francisco,Chicago,North America,8530,10
+58,RTE-058,Sao Paulo,Tokyo,Latin America,4007,7
+59,RTE-059,Osaka,Tokyo,Asia Pacific,12715,21
+60,RTE-060,Singapore,Tunis,Asia Pacific,7796,12
+61,RTE-061,Buenos Aires,Guangzhou,Latin America,12464,15
+62,RTE-062,Johannesburg,Seoul,Africa,13849,
+63,RTE-063,New York,Bogota,North America,12836,15
+64,RTE-064,Berlin,Seoul,Europe,3027,4
+65,RTE-065,Abidjan,Johannesburg,Africa,1781,2
+66,RTE-066,,Casablanca,Latin America,5599,7
+67,RTE-067,Frankfurt,Mexico City,Europe,5609,6
+68,RTE-068,Athens,Johannesburg,Europe,10688,15
+69,RTE-069, ,New York,Latin America,9316,13
+70,RTE-070,Sao Paulo, ,Latin America,2669,4
+71,RTE-071,Berlin,Chennai,,3260,
+72,RTE-072,Amsterdam,Colombo,Europe,8469,10
+73,RTE-073,Seoul,,Asia Pacific,7539,13
+74,RTE-074, ,Los Angeles,Asia Pacific, ,5
+75,RTE-075, ,Warsaw,North America,5724,10
+76,RTE-076,Vancouver,Cape Town,North America,13199,16
+77,RTE-077,Warsaw,Singapore,Europe,6338,9
+78,RTE-078,Rotterdam,Kuala Lumpur,Europe,4796,7
+79,RTE-079,Dallas,Chennai,North America,8966,16
+80,RTE-080,Vancouver,Colombo,North America,5485,8
+81,RTE-081,Bogota,Dallas,Latin America,10652,14
+82,RTE-082,Lagos,Rotterdam,Africa,692,1
+83,RTE-083,Casablanca,Shanghai,,5768,8
+84,RTE-084,Bangkok,Dubai,,5342,8
+85,RTE-085,Dallas,Cape Town,North America,10392,20
+86,RTE-086,San Francisco,Dublin,North America,882,1
+87,RTE-087,Seoul, ,Asia Pacific,13639,19
+88,RTE-088,Karachi,Jakarta,Asia Pacific,606, 
+89,RTE-089,Toronto,Houston,North America,810,1
+90,RTE-090,Vancouver,Rotterdam,North America,13117,14
+91,RTE-091,Vienna,Paris,Europe,6388,8
+92,RTE-092,Shanghai,,Asia Pacific,3611,6
+93,RTE-093,Dhaka,San Francisco,Asia Pacific,12300,16
+94,RTE-094,Bogota,Accra,Latin America,2474,
+95,RTE-095,Dhaka,Shanghai,Asia Pacific,11556,14
+96,RTE-096,Stockholm,Warsaw,Europe,668,1
+97,RTE-097,Jakarta,Singapore,Asia Pacific,12961,17
+98,RTE-098,Karachi,Lima,Asia Pacific,1977,3
+99,RTE-099,Cape Town,Paris,Africa, ,
+100,RTE-100,Lisbon,Accra,Europe,1126,2
+101,RTE-101,Chennai,Santiago,Asia Pacific,11607,13
+102,RTE-102,Dublin,Jakarta,Europe,1586,1
+103,RTE-103,Mumbai,Seoul,Asia Pacific,5385,6
+104,RTE-104,Lisbon,Guangzhou,Europe,4527,6
+105,RTE-105,Seoul,Amsterdam,Asia Pacific,795,1
+106,RTE-106,Chicago,Lima,North America,1986,2
+107,RTE-107,Jakarta,Seoul,Asia Pacific,6866,8
+108,RTE-108,Hamburg,Sydney,Europe,13635,15
+109,RTE-109,Paris,Miami,Europe,11156,13
+110,RTE-110,Seoul,Singapore,Asia Pacific,9394,17
+111,RTE-111,Dar es Salaam,Vancouver, ,12937,18
+112,RTE-112,Montreal,Lisbon,North America,12669,15
+113,RTE-113,Guangzhou,Cape Town,Asia Pacific,7626,12
+114,RTE-114,Beirut,Ho Chi Minh City,Middle East,,8
+115,RTE-115,Buenos Aires,Colombo,Latin America,,3
+116,RTE-116,Cairo,Rotterdam,Africa,4923,9
+117,RTE-117,New York,Barcelona,North America,9231,15
+118,RTE-118,Santiago,Casablanca,Latin America,2827,
+119,RTE-119,Dallas,Vienna,North America,8274,9
+120,RTE-120,Seoul,Lisbon,Asia Pacific,13225,15
+121,RTE-121,Johannesburg,New York,Africa,6121,9
+122,RTE-122,Lima, ,,7031,9
+123,RTE-123,Montreal,San Francisco,North America,11613,21
+124,RTE-124,Seoul,Bogota,Asia Pacific,1581,2
+125,RTE-125,Dubai,Accra, ,10682,13
+126,RTE-126,San Francisco,Seoul,North America,8699,11
+127,RTE-127,Sao Paulo,Shanghai,Latin America,11687,14
+128,RTE-128,Sao Paulo,Cape Town,Latin America,1145,1
+129,RTE-129,Lima,Dubai,Latin America,13141,20
+130,RTE-130,Vancouver,Miami,North America,9995,11
+131,RTE-131,Amsterdam,Miami,Europe,13396,17
+132,RTE-132,Toronto,Santiago,North America,8425,9
+133,RTE-133, ,Cape Town,Asia Pacific, ,18
+134,RTE-134,San Francisco,Warsaw,North America,8103,9
+135,RTE-135,,Toronto,Latin America,8990,12
+136,RTE-136,Accra,Mombasa,Africa,972,1
+137,RTE-137,Colombo,Houston,Asia Pacific,5788,9
+138,RTE-138,Stockholm,Paris,Europe,12330,14
+139,RTE-139,Karachi,,Asia Pacific,11323,22
+140,RTE-140,Nairobi,,Africa,4941,7
+141,RTE-141,Santiago,Sydney,Latin America,10120,12
+142,RTE-142,Manila,Lisbon,Asia Pacific,10915,13
+143,RTE-143,Osaka,Dhaka,Asia Pacific,1540,1
+144,RTE-144,Riyadh,Singapore, ,4516,7
+145,RTE-145,Mexico City,Mombasa,Latin America,13616,21
+146,RTE-146,Abidjan,Amsterdam,Africa,2076,3
+147,RTE-147,Mexico City,Mumbai,Latin America,,1
+148,RTE-148,Abidjan,Chennai,Africa,314,1
+149,RTE-149,Lima,Athens,Latin America,12931,17
+150,RTE-150,Nairobi,Lagos,Africa,6598,7
+151,RTE-151,Accra,Warsaw,Africa,6863,12
+152,RTE-152,Frankfurt,Santiago,Europe, ,8
+153,RTE-153,Tokyo,Warsaw,Asia Pacific,11701,16
+154,RTE-154,Stockholm,Tokyo,Europe,2592, 
+155,RTE-155,Jakarta,Abidjan,Asia Pacific,5341,
+156,RTE-156, ,Hamburg,North America,13206,15
+157,RTE-157,Accra,Tunis,Africa,9091,15
+158,RTE-158,London,San Francisco,,10431,19
+159,RTE-159,Dar es Salaam,Bangkok, ,1894,2
+160,RTE-160,Vancouver,Dublin,North America,10386,16
+161,RTE-161,Buenos Aires,Singapore,Latin America,2279,2
+162,RTE-162,Montreal,Miami,North America,5796,10
+163,RTE-163,Johannesburg,Paris,Africa,9835,18
+164,RTE-164,,Amsterdam,Europe,1622,3
+165,RTE-165,Kuala Lumpur,Dublin,Asia Pacific,13280,14
+166,RTE-166,Paris,Ho Chi Minh City,Europe,3159,3
+167,RTE-167,Warsaw,Cairo,Europe,7161,14
+168,RTE-168,Tunis,Manila,Africa,9142,12
+169,RTE-169,Bangkok,Toronto,Asia Pacific, ,15
+170,RTE-170,Sydney,Barcelona,Asia Pacific,4418, 
+171,RTE-171,Jakarta,Miami,Asia Pacific,2889,5
+172,RTE-172,Singapore,Casablanca,Asia Pacific,3556,4
+173,RTE-173,Stockholm,Casablanca,Europe, ,5
+174,RTE-174,Sydney,Dhaka,Asia Pacific,10284,14
+175,RTE-175, ,Tokyo,North America,5803,10
+176,RTE-176,Casablanca,Sao Paulo,Africa,12757,18
+177,RTE-177,Lisbon,Sao Paulo,Europe,9771,12
+178,RTE-178,Santiago,Seoul,Latin America,4873,9
+179,RTE-179,Lisbon,Dhaka,Europe, ,17
+180,RTE-180,Dallas,Riyadh,North America,8561,16
+181,RTE-181,Amsterdam,Paris,Europe,1661,2
+182,RTE-182,Paris,Abidjan,Europe,1786,3
+183,RTE-183,London,Seoul,Europe,7898,8
+184,RTE-184,Athens,Chennai,Europe, ,1
+185,RTE-185,Houston,Kuala Lumpur,North America,10335,13
+186,RTE-186,Dhaka, ,Asia Pacific,8733, 
+187,RTE-187,Istanbul,Miami,Middle East,10919,13
+188,RTE-188,Jakarta,Rotterdam,Asia Pacific,10933,14
+189,RTE-189,Manila,Nairobi,Asia Pacific, ,8
+190,RTE-190,Johannesburg,Amsterdam,Africa,8515,11
+191,RTE-191,Johannesburg,Guangzhou,Africa,6331,7
+192,RTE-192,Seoul,Frankfurt,Asia Pacific,1613,2
+193,RTE-193,Kuala Lumpur,Toronto,Asia Pacific,8431,14
+194,RTE-194,Jakarta,Dhaka,Asia Pacific,2463, 
+195,RTE-195,Tunis,Dublin,Africa,4106,5
+196,RTE-196,Montreal,Osaka,North America,11717,15
+197,RTE-197,Mexico City,Nairobi, ,8233,11
+198,RTE-198,Sao Paulo,Guangzhou,Latin America,2934,3
+199,RTE-199,Sao Paulo,Paris,Latin America,2215,4
+200,RTE-200,Athens,Shanghai,Europe,11204,16

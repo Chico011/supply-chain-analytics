@@ -1,0 +1,61 @@
+carrier_key,carrier_id,carrier_name,transport_mode,on_time_rate,avg_cost_per_km,coverage_region,status
+1,CAR-001,Vertex Freight,Rail,86.02,7.156,Europe,Active
+2,CAR-002,Ocean Lines, ,86.21,8.3065,Latin America,Active
+3,CAR-003,Vertex Transit,Sea,83.4,1.9815, ,Active
+4,CAR-004,Global Cargo,SEA,53.84,5.8316,Middle East,Active
+5,CAR-005,Alpha Shipping,Air,75.95,1.8503,Latin America,Active
+6,CAR-006,Crest Shipping,Sea,76.4,7.8956,North America,Active
+7,CAR-007,Arrow Transit,Air,57.22,,Africa,Active
+8,CAR-008,Clear Express,Sea,75.64,1.9233,Africa,Active
+9,CAR-009,Rapid Transit,Air,90.12,7.1465,Global, 
+10,CAR-010, ,road,78.45,2.7537,Middle East,
+11,CAR-011,Crest Logistics,Road, ,8.8452,Global,Inactive
+12,CAR-012,Summit Express,Road,58.27,7.6571,Middle East,Active
+13,CAR-013,Swift Cargo,Road,77.19,2.3115,Middle East,Active
+14,CAR-014,Titan Cargo,Sea,57.27, ,Global,Inactive
+15,CAR-015,Vertex Logistics,Road,78.71,3.65,Europe,Inactive
+16,CAR-016,Sea Shipping,Air,78.87,3.7169,Latin America,Active
+17,CAR-017,Turbo Lines,Air,92.38,3.6645,Africa,Inactive
+18,CAR-018,Cross Cargo,Sea, ,0.5695,North America,Inactive
+19,CAR-019,Alpha Transit,Sea,73.72,3.7289,Global,Active
+20,CAR-020,Clear Logistics,Road,89.1,1.9092,Latin America,Inactive
+21,CAR-021,Crest Cargo, ,87.03,2.8056,Middle East,Active
+22,CAR-022,Link Express,Road,84.37,7.9498,Asia Pacific,Inactive
+23,CAR-023,Rapid Lines,Road,93.73,3.6114,Latin America,
+24,CAR-024,Arrow Cargo,Sea,61.73,3.6962,North America,Active
+25,CAR-025,Delta Logistics,Rail,81.77,2.6174,Africa, 
+26,CAR-026, ,Sea,70.65,6.2024,Middle East,Active
+27,CAR-027,Sea Express,Rail,90.2,7.631,Europe,Inactive
+28,CAR-028,Delta Shipping,Road,56.99,8.2223,Latin America,Inactive
+29,CAR-029,Euro Freight,Road,93.49,0.4109,Middle East,Inactive
+30,CAR-030,Titan Freight,Air,88.32,5.7603,Global,Inactive
+31,CAR-031,Global Haul,Sea,79.52,,Middle East,Inactive
+32,CAR-032,Clear Freight,Sea,68.66,6.3293,Global,Inactive
+33,CAR-033,Cross Lines,Air,60.22,4.8022,Africa,Active
+34,CAR-034,Titan Logistics,Rail,56.61,7.5533,Africa,Active
+35,CAR-035,Rapid Freight,Road,56.05,3.7746,Middle East,Active
+36,CAR-036,Clear Haul,Road,81.45,2.2355,Global, 
+37,CAR-037,Zenith Transit,Road,96.88,2.911,Middle East,Inactive
+38,CAR-038,Swift Logistics,Sea,78.81,7.8212,Europe,Active
+39,CAR-039,Iron Logistics,Sea,75.61,5.2949,Asia Pacific,Active
+40,CAR-040,Summit Transit,Rail,91.65,2.7462,Global,Active
+41,CAR-041,Iron Shipping,Road,65.22,7.214,Africa,Active
+42,CAR-042,Sea Haul,Sea,85.83,2.2817,Europe,Active
+43,CAR-043,Road Logistics,Rail,,4.7889,Latin America,Inactive
+44,CAR-044,Euro Cargo,Sea,57.9,4.2509,North America,Active
+45,CAR-045,Summit Cargo,Road,,2.3178,Asia Pacific,Active
+46,CAR-046,Cross Transit,Air,61.68,3.788,Asia Pacific,Inactive
+47,CAR-047,Atlas Logistics,Sea,61.02,7.1207,North America,Active
+48,CAR-048,Arrow Shipping,Sea,54.19,1.8864,Asia Pacific,Active
+49,CAR-049,North Haul,Sea,68.15,5.9107,Middle East,Active
+50,CAR-050,Prime Shipping,Rail,55.61,4.6201,Global,Active
+51,CAR-051,Zenith Lines,Road,66.42,6.8649,Latin America,Active
+52,CAR-052,Fast Express,Road,62.79,7.1693,Europe,Active
+53,CAR-053,Swift Lines,Road,55.88,3.9476,Middle East,Active
+54,CAR-054,,Air,73.9,5.3193,Latin America,Inactive
+55,CAR-055,Zenith Express,Air,66.24,5.311,Latin America,Active
+56,CAR-056,,Road,52.38,9.0173,North America,Active
+57,CAR-057,Horizon Freight,Sea,70.16,7.1078,Latin America,Active
+58,CAR-058,Turbo Haul,Sea,60.39,6.1957,Asia Pacific,Active
+59,CAR-059,Ocean Freight,Road,,,Europe,Active
+60,CAR-060,Euro Shipping,Road, , ,Latin America,Active
