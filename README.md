@@ -212,12 +212,3 @@ I enjoy building end to end analytics projects that combine SQL, Python, and Pow
 ## 📄 License
 
 This project is licensed under the MIT License. 
-
-*Built with structure, business thinking, and a commitment to quality over quantity. 🚚*
-## Dashboard Screenshots
-
-### Dashboard Overview 1
-![Dashboard Overview 1](Screenshot.dashboard%20overview1.png)
-
-### Dashboard Overview 2
-![Dashboard Overview 2](Screenshot.dashboard%20overview2.png)
