@@ -1,6 +1,6 @@
 # 🚚 Supply Chain Delivery Performance & Operational Efficiency Analysis
 
-> An advanced end-to-end SQL analytics project built on a custom supply chain data warehouse — diagnosing delivery failures, supplier underperformance, carrier inefficiencies, and warehouse bottlenecks across a regional distribution network.
+>End to end SQL Server and Power BI project analyzing 18,000 supply chain shipments to identify delivery delays, warehouse bottlenecks, supplier performance, and operational cost drivers.
 
 ---
 
