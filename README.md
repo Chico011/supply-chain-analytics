@@ -50,7 +50,7 @@ The goal is to provide clear insights and practical recommendations that help im
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
 
 ```
 supply-chain-analytics/
@@ -94,10 +94,15 @@ supply_chain_dashboard.pbix
 SupplyChainDW
 
 ref_suppliers
+       │
 ref_carriers
+       │
 ref_routes
+       │
 ref_warehouses
+       │
 ref_products
+       │
 fact_shipments
 ```
 
@@ -186,28 +191,27 @@ The Power BI dashboard includes:
 - Ranking Functions
 - Data Cleaning
 - Data Validation
-- Data Modeling
+- Star Schema Design
 - Business Analysis
 
 ---
 
 ## 📈 Business Value
 
-This project demonstrates how SQL Server and Power BI can be used to transform raw operational data into business insights.
-
-The analysis helps decision makers identify the root causes of shipment delays, measure their financial impact, and make informed decisions to improve supply chain performance.
-
+This project transforms raw operational data into actionable business insights. It helps decision makers identify the causes of shipment delays, measure their financial impact, and improve overall supply chain performance.
 ---
 
 ## 👤 About Me
 
-Hi, I'm **Collins Odoh**, a Computer and Information Systems student at **BYU Pathway Worldwide** with a growing interest in Data Analytics and Business Intelligence.
+Hi, I'm **Collins Odoh**, a Computer and Information Systems student at **BYU Pathway Worldwide** with a strong interest in Data Analytics and Business Intelligence.
 
 I enjoy building end to end analytics projects that combine SQL, Python, and Power BI to solve real business problems and turn raw data into actionable insights.
+⭐ If you found this project helpful, feel free to star the repository and connect with me on LinkedIn.
 
 📎 LinkedIn: https://www.linkedin.com/in/collins-odoh-97b497382
 
 ---
+
 
 ## 📄 License
 
